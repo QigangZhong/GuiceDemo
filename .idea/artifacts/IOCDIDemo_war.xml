@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IOCDIDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="IOCDIDemo.war">
+      <element id="artifact" artifact-name="IOCDIDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
